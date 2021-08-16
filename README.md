@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hung
+<h1 align="center"> Hi there 👋, I'm Hung</h1>
 
 <br/>
 
