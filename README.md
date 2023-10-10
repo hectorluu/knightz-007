@@ -1,8 +1,8 @@
 <h1 align="center" style="border: none;"> Hi there 👋, I'm Hung</h1>
 
-## I'm a nice front-end fresher, a passionate contributor.
+## I'm a front-end developer, a passionate contributor.
 
-- ✨ I’m currently learning everything. However, I'm especially interested in Javascript 😆
+- ✨ I’m currently learning everything 😆
 - 👯 I’m looking to collaborate with other developers.
 
 ## Connect with me:
